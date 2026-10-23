@@ -1,0 +1,6 @@
+
+*.tex linguist-detectable=false
+media/** linguist-detectable=false
+
+*.mlx linguist-language=MATLAB linguist-detectable=true
+*.slx linguist-language=MATLAB linguist-detectable=true
