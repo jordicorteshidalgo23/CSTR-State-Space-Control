@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Lenovo/Desktop/Manim_prueba - copia/media/videos/main_v2/1080p60/partial_movie_files/JacketedCSTR/902229054_1720007211_223132457.mp4'
+file 'file:C:/Users/Lenovo/Desktop/Manim_prueba - copia/media/videos/main_v2/1080p60/partial_movie_files/JacketedCSTR/525275434_3851617337_494961492.mp4'
+file 'file:C:/Users/Lenovo/Desktop/Manim_prueba - copia/media/videos/main_v2/1080p60/partial_movie_files/JacketedCSTR/525275434_3596561522_3315650876.mp4'
+file 'file:C:/Users/Lenovo/Desktop/Manim_prueba - copia/media/videos/main_v2/1080p60/partial_movie_files/JacketedCSTR/525275434_1379913077_3046982020.mp4'
+file 'file:C:/Users/Lenovo/Desktop/Manim_prueba - copia/media/videos/main_v2/1080p60/partial_movie_files/JacketedCSTR/525275434_241228271_631829896.mp4'
+file 'file:C:/Users/Lenovo/Desktop/Manim_prueba - copia/media/videos/main_v2/1080p60/partial_movie_files/JacketedCSTR/525275434_4040602970_1072722165.mp4'
+file 'file:C:/Users/Lenovo/Desktop/Manim_prueba - copia/media/videos/main_v2/1080p60/partial_movie_files/JacketedCSTR/525275434_3880968470_1419976595.mp4'
+file 'file:C:/Users/Lenovo/Desktop/Manim_prueba - copia/media/videos/main_v2/1080p60/partial_movie_files/JacketedCSTR/525275434_1204639357_2815530331.mp4'
+file 'file:C:/Users/Lenovo/Desktop/Manim_prueba - copia/media/videos/main_v2/1080p60/partial_movie_files/JacketedCSTR/525275434_4039060768_3279537287.mp4'
