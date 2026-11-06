@@ -353,8 +353,8 @@ Animations of the reactor and the simulated responses (data exported from Simuli
 
 | Animation | File | LinkedIn post |
 |---|---|---|
-| Jacketed reactor with LQR + observer control under $T_{in}$ disturbances | [`JacketedCSTR.mp4`](04_Animations/JacketedCSTR.mp4) | [🔗 Link pending](https://www.linkedin.com/PLACEHOLDER-POST-1) |
-| Luenberger observer in the CSTR | [`luenberger_observer_CSTR.mp4`](04_Animations/luenberger_observer_CSTR.mp4) | [🔗 Link pending](https://www.linkedin.com/PLACEHOLDER-POST-2) |
+| Jacketed reactor with LQR + observer control under $T_{in}$ disturbances | [`JacketedCSTR.mp4`](04_Animations/JacketedCSTR.mp4) | [🔗 LinkedIn post](https://lnkd.in/p/eYXS2t3y) |
+| Luenberger observer in the CSTR | [`luenberger_observer_CSTR.mp4`](04_Animations/luenberger_observer_CSTR.mp4) | [🔗 LinkedIn post](https://lnkd.in/p/eYBJVA3c) |
 
 The reactor animation code is in [`04_Animations/CSTR animation/main_v2.py`](<04_Animations/CSTR animation/main_v2.py>) (see [how to run it](#animations-folder-04)).
 
