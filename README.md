@@ -126,10 +126,10 @@ State variables, manipulated inputs and disturbances:
 
 | Vector | Symbol | Variables | Units |
 |---|---|---|---|
-| States | $x = [c_A,\; c_B,\; T,\; T_c]^T$ | concentration of A and B in the reactor, reactor and jacket temperature | mol/m³, mol/m³, °C, °C |
-| Inputs | $u = [Q_{in}/V,\; Q_H]^T$ | feed flow rate normalized by volume and heat removed by the jacket | 1/h, kJ/h |
-| Disturbances | $d = [c_{A,in},\; T_{in}]^T$ | feed concentration and feed temperature | mol/m³, °C |
-| Controlled outputs | $y_c = [c_B,\; T_c]^T$ | concentration of B and jacket temperature | mol/m³, °C |
+| States | $x = [c_A\; c_B\; T\; T_c]^T$ | concentration of A and B in the reactor, reactor and jacket temperature | mol/m³, mol/m³, °C, °C |
+| Inputs | $u = [Q_{in}/V\; Q_H]^T$ | feed flow rate normalized by volume and heat removed by the jacket | 1/h, kJ/h |
+| Disturbances | $d = [c_{A,in}\; T_{in}]^T$ | feed concentration and feed temperature | mol/m³, °C |
+| Controlled outputs | $y_c = [c_B\; T_c]^T$ | concentration of B and jacket temperature | mol/m³, °C |
 
 Mass and energy balances (time in hours):
 
